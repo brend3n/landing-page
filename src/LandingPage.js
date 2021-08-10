@@ -20,11 +20,11 @@ export default function LandingPage(){
             <h1>Site is under development</h1>
             <div><br></br></div>
 
-            <h4>In the meantime, all orders are $5.</h4>
+            <h4>In the meantime, all orders are $5.20 .</h4>
             
             <div><br></br></div>
             <div><br></br></div>
-            <h4 className="text-center">Pay $5 with either venmo or cashapp</h4>
+            <h4 className="text-center">Pay $5.20 with either venmo or cashapp</h4>
             <body className="text-center">When paying, leave some sort of contact information.</body>   
             <div><br></br></div>
             <div><br></br></div>
